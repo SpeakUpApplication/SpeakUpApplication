@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpeakUpApplication (my name is Elchin). I am interested in cooperation with developers to improve my Speak Up conversational application for foreign languages learning students.
+- 👋 Hi, I’m @SpeakUpApplication (my name is Elchin). I am interested in cooperation with developers to improve my Speak Up conversational application for foreign languages tutors.
 - 👀 I’m interested in STT, TTS, Voice to image animation
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on TTS voice customisation, voice to image animation, text to video, image to video.
